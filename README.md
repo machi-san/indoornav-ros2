@@ -1,6 +1,6 @@
 # indoornav-ros2
 
-ROS2 Perception + SLAM portfolio project — porting the Indoor Navigation System for
+ROS2 Perception + SLAM portfolio project. Porting the Indoor Navigation System for
 Visually Impaired Users (EfficientDet-Lite0 + ultrasonic sensor fusion) into a full ROS2
 software stack, and extending prior UGV mapping experience into a working SLAM
 implementation. Built to close a ROS2/Gazebo skill gap identified in target robotics job
