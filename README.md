@@ -6,7 +6,7 @@ software stack, and extending prior UGV mapping experience into a working SLAM
 implementation. Built to close a ROS2/Gazebo skill gap identified in target robotics job
 postings.
 
-See the related capstone project: [indoor-navigation repo link — add once available]
+See the related capstone project: [https://github.com/machi-san/indoornav]
 
 Setup verified Sat Aug 22 20:04:41 +04 2026
 
